@@ -1,0 +1,29 @@
+#2-D data square pattern with numbers
+n=int(input('enter'))
+for i in range(n):  
+    for j in range(n):
+        print(j,end=' ')
+    print()
+#generating same num in a row
+n=int(input('enter'))
+for i in range(n):  
+    for j in range(n):
+        print(i,end=' ')
+    print()
+# generating square pattern
+n=int(input('enter'))
+for i in range(n):  
+    for j in range(n):
+        print('*',end=' ')
+    print()
+
+#gerenate and print hallow square pattern
+n=int(input('enter'))
+for i in range(n):  
+    for j in range(n):
+        if i==0 or i==n-1 or j==0 or j==n-1:  #i=j or  for anti diagnol i+j=n-1, j=n-1-i
+            print('*',end=' ')
+        else:
+            print(' ',end=' ')
+
+    print()
