@@ -53,7 +53,7 @@ This repository represents my learning journey toward becoming a better programm
 
 **Kadavakollu Tejasri**
 
-* GitHub: [KadavakolluTejasri](https://github.com/KadavakolluTejasri)
+* GitHub: [KadavakolluTejasri](https://github.com/Tejasri720)
 
 ---
 
