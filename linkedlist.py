@@ -286,7 +286,7 @@ while temp:
     print(temp.data, end='->')
     temp = temp.next
 
-print("tail")'''
+print("tail")
 
 
 #reversed singlr linked list
@@ -338,6 +338,4 @@ while temp:
 
 print("tail")
 
-
-
-
+'''
